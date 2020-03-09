@@ -8,7 +8,7 @@ def my_find(collection)
     else
       i+=1
     end
-    collection[i]
+    return collection[i]
   end
 end
 
